@@ -16,8 +16,6 @@ parser.add_argument('--dest', type=str,
                     help='destination folder')
 
 
-
-
 args = parser.parse_args()
 
 link = Path(args.link)
@@ -40,15 +38,6 @@ def get_dataframe(link):
     df = pd.DataFrame(data =stacked_arr,columns=cols )
     return df
 
-
-
-rng = np.random.default_rng(seed=7)
-train_ind = rng.integers(0,len(train),700)
-out_train = train[train.index.isin(train_ind)]
-
-#val_ind = rng.integers(0,len(val_df),700)
-#out_val = val_df[val.index.isin(val_ind)]
-
 def copy_paste(df,url_src, url_dst):
     
     for i in range(len(df)):
@@ -65,5 +54,8 @@ def copy_paste(df,url_src, url_dst):
 
 if __name__ == "__main__":
     train = get_dataframe(link)
+    rng = np.random.default_rng(seed=7)
+    train_ind = rng.integers(0,len(train),700)
+    out_train = train[train.index.isin(train_ind)]
     copy_paste(out_train,data_path, dst_folder)
     
