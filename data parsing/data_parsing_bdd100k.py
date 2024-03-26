@@ -58,4 +58,4 @@ if __name__ == "__main__":
     train_ind = rng.integers(0,len(train),700)
     out_train = train[train.index.isin(train_ind)]
     copy_paste(out_train,data_path, dst_folder)
-    
+    print(f'completed, {len(out_train)} images saved in the {dst_folder} provided.') 
