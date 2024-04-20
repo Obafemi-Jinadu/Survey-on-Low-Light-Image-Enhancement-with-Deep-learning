@@ -11,10 +11,6 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/2fc3c3dad1095193a5255b34d60177a9278847df/multi%20media%20files/image%20c%20newest.png)
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/71cb0ca092a6f4262cf046a3bfaf701cc37e3075/multi%20media%20files/image%20c.png)
-                                                                        | Month    | Savings | 
-                                                                        | -------- | ------- |
-                                                                        | January  | $250    |
-                                                                        | February | $80     |
-                                                                        | March    | $420    |
+                
 
 Prof. Panetta's Vision Sensing and Simulations Lab
