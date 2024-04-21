@@ -8,7 +8,7 @@ The repository for our paper **An Impact Study of Deep Learning-based Low-light 
 -  Comprehensive and Updated Review of deep learning-based LLIE techniques. Including transformer-based and diffusion-based models.
  -   The performance of deep learning-based LLIE methods are evaluated specifically within the context of Intelligent Transportation Systems (ITS). 
   - Impact on Downstream Computer Vision Tasks such as Object Detection.
-  - 
+    
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/2620d56bfda48ccbe25c877942c4280b9a62f222/multi%20media%20files/final_img.png)
 
 
