@@ -1,8 +1,7 @@
 <h1 align="center">An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems</h1>
 
 
-The repository for our paper **An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems**
-[Obafemi Jinadu](https://femi-jinadu.github.io/), [Srijith Rajeev](https://scholar.google.com/citations?user=9vac4DkAAAAJ&hl=en), [Karen A. Panetta](https://scholar.google.com/citations?user=nsOodtAAAAAJ&hl=en), [Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=en)
+The repository for our paper **An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems**: [Obafemi Jinadu](https://femi-jinadu.github.io/), [Srijith Rajeev](https://scholar.google.com/citations?user=9vac4DkAAAAJ&hl=en), [Karen A. Panetta](https://scholar.google.com/citations?user=nsOodtAAAAAJ&hl=en), [Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=en)
 
 ## Hightlights
 -  Comprehensive and Updated Review of deep learning-based LLIE techniques. Including transformer-based and diffusion-based models.
