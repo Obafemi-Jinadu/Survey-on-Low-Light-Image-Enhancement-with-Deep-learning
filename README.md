@@ -29,7 +29,7 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2022 |DPIENet | [Deep Perceptual Image Enhancement Network for Exposure Restoration](https://ieeexplore.ieee.org/document/9693338) - TC 2022  | Supervised| PyTorch|
 |2022 |LLFlow | [Low-light image enhancement with normalizing flow](https://wyf0912.github.io/LLFlow/) - AAAI 2022  | Supervised|[code](https://github.com/wyf0912/LLFlow?tab=readme-ov-file) -  PyTorch|
 |2022 |SCI | [Toward fast, flexible, and robust low-light image enhancement](https://ieeexplore.ieee.org/document/9879599) - CVPR 2022  | Unsupervised|[code](https://github.com/vis-opt-group/SCI) - PyTorch|
-|2022 |SCI | [Unsupervised night image enhancement: When layer decomposition meets light-effects suppression](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf&ved=2ahUKEwic3v_b2tOFAxUxAHkGHa2LDY8QFnoECBUQAQ&usg=AOvVaw1H4dzgTZtPRbo2EDEJpR7c) - ECCV 2022  | Unsupervised|[code](https://github.com/jinyeying/night-enhancement) - PyTorch|
+|2022 |SCI | [Unsupervised night image enhancement: When layer decomposition meets light-effects suppression (UNIE)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf&ved=2ahUKEwic3v_b2tOFAxUxAHkGHa2LDY8QFnoECBUQAQ&usg=AOvVaw1H4dzgTZtPRbo2EDEJpR7c) - ECCV 2022  | Unsupervised|[code](https://github.com/jinyeying/night-enhancement) - PyTorch|
 
 
 
