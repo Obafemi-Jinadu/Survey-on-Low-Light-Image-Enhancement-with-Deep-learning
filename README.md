@@ -35,10 +35,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
 
 
 
-
-
-
-
+## Impact of LLIE on Object Detection
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/e27810c05d6cf202708a55925c25408f8e1799ab/multi%20media%20files/image%20a%20new.png)
 
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/c79c830c9d87794533eb398d3f034626bf214e7b/multi%20media%20files/image%20b%20new.png)
