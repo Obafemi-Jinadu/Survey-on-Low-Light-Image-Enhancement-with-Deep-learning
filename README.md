@@ -96,7 +96,14 @@ obafemi.jinadu@tufts.edu
 ```
 
 # References
-[1]
+[1] Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., and Darrell, T., “Bdd100k: A diverse driving dataset for heterogeneous multitask learning,” in [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], (June 2020).
+[2] Panetta, K., K. M., S. K., Rao, S. P., and Agaian, S. S., “Deep perceptual image enhancement network for exposure restoration,” IEEE Transactions on Cybernetics 53(7), 4718–4731 (2023).
+[3] Dang, J., Zhong, Y., and Qin, X., “PPformer: Using pixel-wise and patch-wise cross-attention for low-light image enhancement,” Computer Vision and Image Understanding 241, 103930 (2024).
+[4] Ma, L., Ma, T., Liu, R., Fan, X., and Luo, Z., “Toward fast, flexible, and robust low-light image enhancement,” in [2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], 5627–5636, IEEE Computer Society, Los Alamitos, CA, USA (jun 2022).
+[5] Jinhui Hou, Zhiyu Zhu, J. H. H. L. H. Z. and Yuan, H., “Global structure-aware diffusion process for low-light image enhancement,” Advances in Neural Information Processing Systems (2023).
+[6] Cai, Y., Bian, H., Lin, J., Wang, H., Timofte, R., and Zhang, Y., “Retinexformer: One-stage retinex-based transformer for low-light image enhancement,” in [2023 IEEE/CVF International Conference on Computer Vision (ICCV)], 12470–12479, IEEE Computer Society, Los Alamitos, CA, USA (oct 2023).
+[7] Zheng, S. and Gupta, G., “Semantic-guided zero-shot learning for low-light image/video enhancement,” in [Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision], 581–590 (2022).
+[8] Jin, Y., Yang, W., and Tan, R. T., “Unsupervised night image enhancement: When layer decomposition meets light-effects suppression,” in [European Conference on Computer Vision], 404–421, Springer (2022).
 
 
 Prof. Panetta's Vision Sensing and Simulations Lab
