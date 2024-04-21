@@ -115,4 +115,4 @@ obafemi.jinadu@tufts.edu
 
 
 
-Prof. Panetta's Vision Sensing and Simulations Lab
+**Prof. Panetta's Vision Sensing and Simulations Lab**
