@@ -60,11 +60,11 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
 
 
 
-To generate identical data samples run:
+To generate identical data samples run in terminal:
+```
+python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k_file" --data "image_dir" --dest "destination_dir"
 
-`python 'data parsing/data_parsing_bdd100k.py' --link "" --data "" --dest ""`
-
-
+```
 
 # contact
 `obafemi.jinadu@tufts.edu`
