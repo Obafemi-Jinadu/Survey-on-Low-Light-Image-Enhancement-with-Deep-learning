@@ -1,4 +1,4 @@
-<h1 align="center">## An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems</h1>
+<h1 align="center">An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems</h1>
 
 
 The repository for our paper **An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems**
