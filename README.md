@@ -68,7 +68,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
 
 
 
-To generate identical data samples run in terminal:
+To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (Specifically 100k_images_train and bdd100k_det_20_labels_trainval zip files), and run the data parsing code, seeded to reproduce the test images used for this survey, in terminal:
 ```
 python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k_file" --data "image_dir" --dest "destination_dir"
 ```
