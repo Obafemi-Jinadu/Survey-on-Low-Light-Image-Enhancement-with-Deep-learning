@@ -96,6 +96,7 @@ obafemi.jinadu@tufts.edu
 ```
 
 # References
+```
 [1] Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., and Darrell, T., “Bdd100k: A diverse driving dataset for heterogeneous multitask learning,” in [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], (June 2020).
 
 [2] Panetta, K., K. M., S. K., Rao, S. P., and Agaian, S. S., “Deep perceptual image enhancement network for exposure restoration,” IEEE Transactions on Cybernetics 53(7), 4718–4731 (2023).
@@ -111,6 +112,7 @@ obafemi.jinadu@tufts.edu
 [7] Zheng, S. and Gupta, G., “Semantic-guided zero-shot learning for low-light image/video enhancement,” in [Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision], 581–590 (2022).
 
 [8] Jin, Y., Yang, W., and Tan, R. T., “Unsupervised night image enhancement: When layer decomposition meets light-effects suppression,” in [European Conference on Computer Vision], 404–421, Springer (2022).
+```
 
 
 Prof. Panetta's Vision Sensing and Simulations Lab
