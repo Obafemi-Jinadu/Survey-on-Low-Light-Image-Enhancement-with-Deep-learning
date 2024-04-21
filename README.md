@@ -15,6 +15,6 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 
 
 
-'python 'data parsing/data_parsing_bdd100k.py' --link "" --data "" --dest ""'
+`python 'data parsing/data_parsing_bdd100k.py' --link "" --data "" --dest ""`
 
 Prof. Panetta's Vision Sensing and Simulations Lab
