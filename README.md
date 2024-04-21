@@ -40,8 +40,7 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2023 |CDAN | [CDAN: Convolutional dense attention-guided network for low-light image enhancement](https://dl.acm.org/doi/10.1145/3618373) - ACM TOG 2023  | Supervised|[code](https://github.com/JianghaiSCU/Diffusion-Low-Light) - PyTorch|
 |2024 |PPFormer | [PPformer: Using pixel-wise and patch-wise cross-attention for low-light image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S1077314224000110?via%3Dihub) - CVIU 2024  | Supervised|[code](https://github.com/DeniJsonC/PPformer) - PyTorch|
 |2024 |LYT-Net | [LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement](https://arxiv.org/abs/2401.15204) - 2024  | Supervised|[code](https://github.com/albrateanu/LYT-Net) - PyTorch|
-
-
+|2024 |CIDNet | [You only need one color space: An efficient network for low-light image enhancement](https://arxiv.org/abs/2402.05809v1) - 2024  | Supervised|[code](https://github.com/Fediory/HVI-CIDNet?tab=readme-ov-file) - PyTorch|
 
 
 ## Low-Light Image Enhancement Qualitative Outputs Results
