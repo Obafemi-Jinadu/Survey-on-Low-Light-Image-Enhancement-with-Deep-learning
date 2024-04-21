@@ -26,6 +26,9 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2021 |DRBN | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - TIP 2021| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) - PyTorch |
 |2021 |KinD++ | [Beyond Brightening Low-light Images](https://link.springer.com/article/10.1007/s11263-020-01407-x) - IJCV 2021 | Supervised|[code](https://github.com/zhangyhuaee/KinD_plus) - TensorFlow |
 |2021 |SGZ | [Semantic-guided zero-shot learning for low-light image/video enhancement](https://arxiv.org/abs/2110.00970) - WACV 2022  | Zero-shot| [code](https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement) - PyTorch|
+|2022 |DPIENet | [Deep Perceptual Image Enhancement Network for Exposure Restoration](https://ieeexplore.ieee.org/document/9693338) - TC 2022  | Supervised| PyTorch|
+|2022 |LLFlow | [Low-light image enhancement with normalizing flow](https://wyf0912.github.io/LLFlow/) - AAAI 2022  | Supervised|[code](https://github.com/wyf0912/LLFlow?tab=readme-ov-file) PyTorch|
+
 
 
 Zhang et al.,28 KinD++,29 SNR-Aware,21 DPIENet,40 IAT,27 WaveNet,31 URetinex-Net,25 Retinex- Former,41 GlobalDiff,30 PyDiff,42 CDAN,23 PPFormer,43 LYT-Net,22 CIDNet,24 DiffLL.26 Unsupervised learning method: EnlightenGAN,33 SCI,34 UNIE.32 Semi-supervised learning method: DRBN.35 Zero-shot learning method: SGZ,36 RetinexDIP,37 Zero-DCE++38 RUAS39
