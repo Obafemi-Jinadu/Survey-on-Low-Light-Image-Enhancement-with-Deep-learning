@@ -67,7 +67,9 @@ python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k
 ```
 
 # contact
-`obafemi.jinadu@tufts.edu`
+```
+obafemi.jinadu@tufts.edu
+```
 
 # References
 [1]
