@@ -26,7 +26,7 @@ From left to right, and from top to bottom: Dark, PIE [5], LIME [6], Retinex [1]
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/de2effb13ab47f7ee64cb52602c24861f19106b6/multi%20media%20files/city%20street_clear_a85cad42-337048b5.jpg" width="200" />
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/c84c2af7611627af0bf0b6e90a26e58f6c8e0f75/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)dpie.png" width="200" /> 
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/bc3e4ccd1b04fff9b8da3780dab6ad1cc0ed6ea6/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)ppformer.png" width="200" />
-  <img src="Samples/Retinex7.jpg" width="200" />
+  <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/c0909d095bf3e7394e55fe0a73e8167d0e8dbdf7/multi%20media%20files/city%20street_clear_a85cad42-3370sci.png" width="200" />
   <img src="Samples/mbllen7.jpg" width="200" /> 
   <img src="Samples/KinD7.jpg" width="200" />
   <img src="Samples/ZeroDCE7.jpg" width="200" /> 
