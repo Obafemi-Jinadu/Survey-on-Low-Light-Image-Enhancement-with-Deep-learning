@@ -58,7 +58,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENe
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/e61f33e78c9ac8f13ce0e0b58f8623f9af93b342/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)unie.png" width="200"/>
 </p>
 
-From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENet [2], PPFormer [3],  SCI [4], GlobalDiff [5], RetinexFormer [6], SGZ [7], UNIE [8] sample 1:
+From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENet [2], PPFormer [3],  SCI [4], GlobalDiff [5], RetinexFormer [6], SGZ [7], UNIE [8] sample 2:
 
 <p float="left">
 <p align="middle">
@@ -85,7 +85,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENe
 
 
 
-To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (Specifically 100k_images_train and bdd100k_det_20_labels_trainval zip files), and run the data parsing code, seeded to reproduce the test images used for this survey, in terminal:
+To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/)[1] (Specifically 100k_images_train and bdd100k_det_20_labels_trainval zip files), and run the data parsing code, seeded to reproduce the test images used for this survey, in terminal:
 ```
 python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k_file" --data "image_dir" --dest "destination_dir"
 ```
