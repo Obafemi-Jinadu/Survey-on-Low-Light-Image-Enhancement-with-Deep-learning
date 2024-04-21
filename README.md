@@ -7,14 +7,13 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
  | Year | Model | Paper | Learning Strategy| Code|
 | ---| --- | --- | --- |--- |
 |2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
-| SGZ | Show file differences that **haven't been** staged |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
 
 
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/e27810c05d6cf202708a55925c25408f8e1799ab/multi%20media%20files/image%20a%20new.png)
