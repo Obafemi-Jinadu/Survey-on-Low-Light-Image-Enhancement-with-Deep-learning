@@ -8,9 +8,9 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 ![image](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/2620d56bfda48ccbe25c877942c4280b9a62f222/multi%20media%20files/final_img.png)
 
 ## Hightlights
--  Comprehensive and Current Review: } This article provides a comprehensive update on the latest advancements in deep learning-based LLIE techniques. It not only covers a wide range of methodologies but also includes the most recent developments in the field. We perform detailed analyses that include both quantitative metrics and qualitative assessments, offering insights into the strengths and weaknesses of various approaches.
- -   \item \textbf{Performance Evaluation in ITS: } The performance of deep learning-based LLIE methods are evaluated specifically within the context of Intelligent Transportation Systems (ITS). 
-  -  \item \textbf{Impact on Downstream Computer Vision Tasks}:  This article delves into how enhanced low-light images influence the performance of downstream computer vision tasks. We assess critical factors such as detection accuracy, reaction times, and the robustness of ITS in low-visibility scenarios, providing valuable data that underscores the importance of effective LLIE in enhancing overall system performance.
+-  Comprehensive and Updated Review of deep learning-based LLIE techniques. Including transformer-based and diffusion-based models.
+ -   The performance of deep learning-based LLIE methods are evaluated specifically within the context of Intelligent Transportation Systems (ITS). 
+  - Impact on Downstream Computer Vision Tasks such as Object Detection.
 
 ## Abstract
 Images and videos captured in poor illumination conditions are degraded by low brightness, reduced contrast, color distortion, and noise, rendering them barely discernable for human perception and ultimately negatively impacting computer vision system performance. These challenges are exasperated when processing video surveillance camera footage, using this unprocessed video data as-is for real-time computer vision tasks across varying environmental conditions within Intelligent Transportation Systems (ITS), such as vehicle detection, tracking, and timely incident detection. 
