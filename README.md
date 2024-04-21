@@ -20,6 +20,8 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 
 
 
+# contact
+`obafemi.jinadu@tufts.edu`
 
 To generate identical data samples run:
 
