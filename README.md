@@ -12,7 +12,7 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 |2021 |EnlightenGAN | [EnlightenGAN: Deep Light Enhancement Without Paired Supervision](https://ieeexplore.ieee.org/document/9334429) -TIP | Unsupervised|[code](https://github.com/VITA-Group/EnlightenGAN)-PyTorch |
 |2021 |RetinexDIP | [RetinexDIP: A Unified Deep Framework for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9405649) - TCSVT | Zero-shot| [code](https://github.com/zhaozunjin/RetinexDIP)-PyTorch|
 |2021 |RUAS | [Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900k0556/1yeKx3Rv5ba) - CVPR| Zero-shot|[code](https://github.com/KarelZhang/RUAS)-PyTorch|
-|2021 |SGZ | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - CVPR| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)-PyTorch |
+|2021 |DRBN | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - CVPR| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)-PyTorch |
 |2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
 
 
