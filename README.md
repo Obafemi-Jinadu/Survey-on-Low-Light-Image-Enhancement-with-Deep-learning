@@ -23,7 +23,7 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2021 |EnlightenGAN | [EnlightenGAN: Deep Light Enhancement Without Paired Supervision](https://ieeexplore.ieee.org/document/9334429) -TIP 2021| Unsupervised|[code](https://github.com/VITA-Group/EnlightenGAN) - PyTorch |
 |2021 |RetinexDIP | [RetinexDIP: A Unified Deep Framework for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9405649) - TCSVT 2021 | Zero-shot| [code](https://github.com/zhaozunjin/RetinexDIP) - PyTorch|
 |2021 |RUAS | [Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900k0556/1yeKx3Rv5ba) - CVPR 2021| Zero-shot|[code](https://github.com/KarelZhang/RUAS) - PyTorch|
-|2021 |DRBN | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - CVPR| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) - PyTorch |
+|2021 |DRBN | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - TIP 2021| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) - PyTorch |
 |2021 |KinD++ | [Beyond Brightening Low-light Images](https://link.springer.com/article/10.1007/s11263-020-01407-x) - IJCV 2021 | Supervised|[code](https://github.com/zhangyhuaee/KinD_plus) - TensorFlow |
 |2021 |SGZ | [Semantic-guided zero-shot learning for low-light image/video enhancement](https://arxiv.org/abs/2110.00970) - WACV 2022  | Zero-shot| [code](https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement) - PyTorch|
 
