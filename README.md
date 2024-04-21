@@ -18,7 +18,7 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 
  | Year | Model | Paper - Publication| Learning Strategy| Code|
 | ---| --- | --- | --- |--- |
-|2021 |Zero-DCE++ | [Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation](https://ieeexplore.ieee.org/document/9369102?denied=) - TPAMI 2021| Zero-shot| [code](https://li-chongyi.github.io/Proj_Zero-DCE++.html) - PyTorch|
+|2021 |Zero-DCE++ | [Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation](https://ieeexplore.ieee.org/document/9369102?denied=) - `TPAMI 2021`| Zero-shot| [code](https://li-chongyi.github.io/Proj_Zero-DCE++.html) - PyTorch|
 |2021 |Zhang et al. | [Learning Temporal Consistency for Low Light Video Enhancement from Single Images](https://ieeexplore.ieee.org/document/9578889) - CVPR 2021| Supervised|[code](https://github.com/zkawfanx/StableLLVE) - PyTorch |
 |2021 |EnlightenGAN | [EnlightenGAN: Deep Light Enhancement Without Paired Supervision](https://ieeexplore.ieee.org/document/9334429) -TIP 2021| Unsupervised|[code](https://github.com/VITA-Group/EnlightenGAN) - PyTorch |
 |2021 |RetinexDIP | [RetinexDIP: A Unified Deep Framework for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9405649) - TCSVT 2021 | Zero-shot| [code](https://github.com/zhaozunjin/RetinexDIP) - PyTorch|
