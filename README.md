@@ -14,7 +14,7 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 
 
 
-To generate identical data samples run
+To generate identical data samples run:
 
 `python 'data parsing/data_parsing_bdd100k.py' --link "" --data "" --dest ""`
 
