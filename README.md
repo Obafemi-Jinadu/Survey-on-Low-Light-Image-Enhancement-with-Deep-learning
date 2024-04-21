@@ -43,7 +43,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
   <img src="multi media files/city street_clear_9c70dfb5-10bb_sci.png" width="200"/>
   <img src="multi media files/116_normal_gsad.png" width="200"/> 
   <img src="multi media files/city street_clear_9c70dfb5-10bbd85c(6)_retinexformer.png" width="200"/>
-  <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/2384f4ecd86a694c60a4a1d9585223dc083c43bc/multi%20media%20files/city%20street_clear_a85cad42-337048b5(1).jpg" width="200"/> 
+  <img src="multi media files/city street_clear_9c70dfb5-10bbd85c(2)sgz.jpg" width="200"/> 
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/e61f33e78c9ac8f13ce0e0b58f8623f9af93b342/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)unie.png" width="200"/>
 </p>
 
