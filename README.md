@@ -38,6 +38,9 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2023 |PyDiff | [Pyramid Diffusion Models For Low-light Image Enhancement](https://arxiv.org/pdf/2305.10028.pdf) - IJCAI 2023  | Supervised|[code](https://github.com/limuloo/PyDIff) - PyTorch|
 |2023 |WaveNet | [WaveNet: Wave-Aware Image Enhancement](https://diglib.eg.org/bitstream/handle/10.2312/pg20231267/021-029.pdf) - PG 2023  | Supervised|[code](https://github.com/DeniJsonC/WaveNet?tab=readme-ov-file) - PyTorch|
 |2023 |CDAN | [CDAN: Convolutional dense attention-guided network for low-light image enhancement](https://dl.acm.org/doi/10.1145/3618373) - ACM TOG 2023  | Supervised|[code](https://github.com/JianghaiSCU/Diffusion-Low-Light) - PyTorch|
+|2024 |PPFormer | [PPformer: Using pixel-wise and patch-wise cross-attention for low-light image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S1077314224000110?via%3Dihub) - CVIU 2024  | Supervised|[code](https://github.com/DeniJsonC/PPformer) - PyTorch|
+|2024 |LYT-Net | [LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement](https://arxiv.org/abs/2401.15204) - 2024  | Supervised|[code](https://github.com/albrateanu/LYT-Net) - PyTorch|
+
 
 
 
