@@ -38,7 +38,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
 <p float="left">
 <p align="middle">
   <img src="multi media files/city street_clear_9c70dfb5-10bbd85c(1).jpg" width="200"/>
-  <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/c84c2af7611627af0bf0b6e90a26e58f6c8e0f75/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)dpie.png" width="200"/> 
+  <img src="multi media files/city street_clear_9c70dfb5-10bbd85c(2).png" width="200"/> 
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/bc3e4ccd1b04fff9b8da3780dab6ad1cc0ed6ea6/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)ppformer.png" width="200"/>
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/c0909d095bf3e7394e55fe0a73e8167d0e8dbdf7/multi%20media%20files/city%20street_clear_a85cad42-3370sci.png" width="200"/>
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/10c9af027b645a78f93094b075d019c467838b03/multi%20media%20files/364_normal.png" width="200"/> 
