@@ -37,9 +37,11 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 |2023 |GlobalDiff | [Global structure-aware diffusion process for low-light image enhancement](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fc034d186280f55370b6aca7a3285a65-Abstract-Conference.html) - NeurIPS 2023  | Supervised|[code](https://github.com/jinnh/GSAD) - PyTorch|
 |2023 |PyDiff | [Pyramid Diffusion Models For Low-light Image Enhancement](https://arxiv.org/pdf/2305.10028.pdf) - IJCAI 2023  | Supervised|[code](https://github.com/limuloo/PyDIff) - PyTorch|
 |2023 |WaveNet | [WaveNet: Wave-Aware Image Enhancement](https://diglib.eg.org/bitstream/handle/10.2312/pg20231267/021-029.pdf) - PG 2023  | Supervised|[code](https://github.com/DeniJsonC/WaveNet?tab=readme-ov-file) - PyTorch|
+|2023 |CDAN | [CDAN: Convolutional dense attention-guided network for low-light image enhancement](https://doi.org/10.48550/arXiv.2308.12902) - 2023  | Supervised|[code](https://github.com/SinaRaoufi/CDAN) - PyTorch|
 
 
-
+CDAN: Convolutional dense attention-guided network for low-light image enhancement
+https://doi.org/10.48550/arXiv.2308.12902
 
 ## Low-Light Image Enhancement Qualitative Outputs Results
 From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet [], PPFormer [],  SCI [], GlobalDiff [], RetinexFormer [], SGZ [], UNIE [] sample 1:
