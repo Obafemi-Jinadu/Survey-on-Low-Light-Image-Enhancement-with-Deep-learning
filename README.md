@@ -49,7 +49,8 @@ To generate identical data samples run:
 # contact
 `obafemi.jinadu@tufts.edu`
 
-
+# References
+[1]
 
 
 Prof. Panetta's Vision Sensing and Simulations Lab
