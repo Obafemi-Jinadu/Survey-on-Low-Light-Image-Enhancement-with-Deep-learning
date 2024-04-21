@@ -14,8 +14,8 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 
  | Model | Paper | Code|
 | --- | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| LLNet | List all *new or modified* files |
+| SGZ | Show file differences that **haven't been** staged |
 
 
 
