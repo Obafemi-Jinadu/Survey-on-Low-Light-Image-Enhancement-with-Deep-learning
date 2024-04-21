@@ -44,7 +44,7 @@ The inadequate performance of these algorithms in real-world deployments incurs 
 
 
 ## Low-Light Image Enhancement Qualitative Outputs Results
-From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet [], PPFormer [],  SCI [], GlobalDiff [], RetinexFormer [], SGZ [], UNIE [] sample 1:
+From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENet [2], PPFormer [3],  SCI [4], GlobalDiff [5], RetinexFormer [6], SGZ [7], UNIE [8] sample 1:
 
 <p float="left">
 <p align="middle">
@@ -58,7 +58,7 @@ From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet []
   <img src="https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning/blob/e61f33e78c9ac8f13ce0e0b58f8623f9af93b342/multi%20media%20files/city%20street_clear_a85cad42-337048b5(2)unie.png" width="200"/>
 </p>
 
-From left to right, and from top to bottom: Baseline/Low-light Image, DPIENet [], PPFormer [],  SCI [], GlobalDiff [], RetinexFormer [], SGZ [], UNIE [] sample 1:
+From left to right, and from top to bottom: Baseline/Low-light Image [1], DPIENet [2], PPFormer [3],  SCI [4], GlobalDiff [5], RetinexFormer [6], SGZ [7], UNIE [8] sample 1:
 
 <p float="left">
 <p align="middle">
