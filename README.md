@@ -13,7 +13,7 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/) (S
 |2021 |RetinexDIP | [RetinexDIP: A Unified Deep Framework for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9405649) - TCSVT | Zero-shot| [code](https://github.com/zhaozunjin/RetinexDIP)-PyTorch|
 |2021 |RUAS | [Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900k0556/1yeKx3Rv5ba) - CVPR| Zero-shot|[code](https://github.com/KarelZhang/RUAS)-PyTorch|
 |2021 |DRBN | [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/9156559) - CVPR| Semi-supervised|[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)-PyTorch |
-|2021 |SGZ | Semantic-guided zero-shot learning for low-light image/video enhancement | Zero-shot| |
+|2021 |KinD++ | [Beyond Brightening Low-light Images](https://link.springer.com/article/10.1007/s11263-020-01407-x) - IJCV | Supervised|[code](https://github.com/zhangyhuaee/KinD_plus) - Tensorflow |
 
 
 Zhang et al.,28 KinD++,29 SNR-Aware,21 DPIENet,40 IAT,27 WaveNet,31 URetinex-Net,25 Retinex- Former,41 GlobalDiff,30 PyDiff,42 CDAN,23 PPFormer,43 LYT-Net,22 CIDNet,24 DiffLL.26 Unsupervised learning method: EnlightenGAN,33 SCI,34 UNIE.32 Semi-supervised learning method: DRBN.35 Zero- shot learning method: SGZ,36 RetinexDIP,37 Zero-DCE++38 RUAS39
