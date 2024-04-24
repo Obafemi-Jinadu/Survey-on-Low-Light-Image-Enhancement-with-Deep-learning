@@ -95,6 +95,9 @@ python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k
 obafemi.jinadu@tufts.edu
 ```
 
+## TODOs
+-Upload NIQE and BRISQUE code
+
 # References
 
 [1] Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., and Darrell, T., “Bdd100k: A diverse driving dataset for heterogeneous multitask learning,” in [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], (June 2020).
