@@ -96,7 +96,7 @@ obafemi.jinadu@tufts.edu
 ```
 
 ## TODOs
--Upload NIQE and BRISQUE code
+- Upload NIQE and BRISQUE code
 
 # References
 
