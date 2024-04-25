@@ -89,7 +89,7 @@ To begin, download the [BDD100K dataset](https://dl.cv.ethz.ch/bdd100k/data/)[1]
 ```
 python 'data parsing/data_parsing_bdd100k.py' --link "path_to_annotation_bdd100k_file" --data "image_dir" --dest "destination_dir"
 ```
-Alternatively, the sample data used for our experiments can be downloaded (here)[https://drive.google.com/drive/folders/1tJkKP505rqO8khdyXHos_lYg4suQpGEN?usp=sharing].
+Alternatively, the sample data used for our experiments can be downloaded [here](https://drive.google.com/drive/folders/1tJkKP505rqO8khdyXHos_lYg4suQpGEN?usp=sharing).
 # contact
 ```
 obafemi.jinadu@tufts.edu
