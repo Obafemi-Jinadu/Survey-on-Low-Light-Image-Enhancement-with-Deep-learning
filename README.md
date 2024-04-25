@@ -117,7 +117,7 @@ obafemi.jinadu@tufts.edu
 [8] Jin, Y., Yang, W., and Tan, R. T., “Unsupervised night image enhancement: When layer decomposition meets light-effects suppression,” in [European Conference on Computer Vision], 404–421, Springer (2022).
 
 ```
-Dr Karen Panetta's Vision and Sensing Lab.
+Dr. Karen Panetta's Vision and Sensing Lab.
 ```
 
 
