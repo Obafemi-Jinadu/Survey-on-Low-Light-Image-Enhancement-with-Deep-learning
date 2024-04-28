@@ -95,7 +95,7 @@ Alternatively, the sample data used for our experiments can be downloaded [here]
 obafemi.jinadu@tufts.edu
 ```
 
-## Referenceless IQA: BRISQUE & NIQE
+## Non-Reference IQA: BRISQUE & NIQE
 ```
 cd BasicSR
 ```
