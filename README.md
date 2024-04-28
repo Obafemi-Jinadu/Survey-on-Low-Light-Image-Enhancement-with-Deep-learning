@@ -95,8 +95,8 @@ Alternatively, the sample data used for our experiments can be downloaded [here]
 obafemi.jinadu@tufts.edu
 ```
 
-## TODOs
-- Upload NIQE and BRISQUE code
+## Referenceless IQA NIQE & BRISQUE
+- For NIQE, code was adapted from the great work of XPixelGroup's [BasicSR toolbox](https://github.com/XPixelGroup/BasicSR)
 
 ## Citation
 ```
