@@ -95,7 +95,10 @@ Alternatively, the sample data used for our experiments can be downloaded [here]
 obafemi.jinadu@tufts.edu
 ```
 
-## Referenceless IQA NIQE & BRISQUE
+## Referenceless IQA: BRISQUE & NIQE
+```
+cd BasicSR
+```
 - For BRISQUE run the code below:
 ```
 python IQA_metrics.py --niqe_path "./BasicSR/basicsr" --metric BRISQUE --data "path to image folder"
@@ -109,7 +112,7 @@ python IQA_metrics.py --niqe_path "./BasicSR/basicsr" --metric NIQE --data "path
 python IQA_metrics.py --niqe_path "./BasicSR/basicsr" --metric both --data "path to image folder"
 ```
 
-- Note: For NIQE, code was adapted from the great work of XPixelGroup's [BasicSR toolbox](https://github.com/XPixelGroup/BasicSR)
+* Note: For NIQE, code was adapted from the great work of XPixelGroup's [BasicSR toolbox](https://github.com/XPixelGroup/BasicSR)
 
 ## Citation
 ```
