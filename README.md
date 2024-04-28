@@ -112,8 +112,9 @@ python IQA_metrics.py --niqe_path "./BasicSR/basicsr" --metric NIQE --data "path
 python IQA_metrics.py --niqe_path "./BasicSR/basicsr" --metric both --data "path to image folder"
 ```
 
-* Note: For NIQE, code was adapted from the great work of XPixelGroup's [BasicSR toolbox](https://github.com/XPixelGroup/BasicSR)
-
+Note:
+* For NIQE, code was adapted from the great work of XPixelGroup's [BasicSR toolbox](https://github.com/XPixelGroup/BasicSR)
+* For BRISQUE installation required: ```pip install brisque```
 ## Citation
 ```
 Available soon
