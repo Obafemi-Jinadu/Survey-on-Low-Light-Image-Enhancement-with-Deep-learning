@@ -117,7 +117,7 @@ Note:
 * For BRISQUE installation required: ```pip install brisque```
 ## Citation
 ```
-Jinadu, O., Rajeev, S., Panetta, K. and Agaian, S.S., 2024, June. An impact study of deep learning-based low-light image enhancement in intelligent transportation systems. In Multimodal Image Exploitation and Learning 2024 (Vol. 13033, pp. 154-171). SPIE.
+Obafemi Jinadu, Srijith Rajeev, Karen Panetta, and Sos S. Agaian "An impact study of deep learning-based low-light image enhancement in intelligent transportation systems", Proc. SPIE 13033, Multimodal Image Exploitation and Learning 2024, 130330K (7 June 2024); https://doi.org/10.1117/12.3014452
 ```
 
 # References
